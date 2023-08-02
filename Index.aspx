@@ -46,9 +46,9 @@
                 </i><span>คำร้อง/คำขอ</span> </a>
                 <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordionSidebar">
                      <div class="bg-white py-2 collapse-inner rounded">
-                     <a class="collapse-item" href="login.html">รวมคำขอของท่าน</a>
-                        <a class="collapse-item" href="login.html">เปลี่ยนแปลงข้อมูลส่วนตัว</a> 
-                         <a class="collapse-item" href="login.html">แบบคำขอเพิ่ม/ลด การส่งหุ้น</a> 
+                     <a class="collapse-item" href="#">รวมคำขอของท่าน</a>
+                        <a class="collapse-item" href="#">เปลี่ยนแปลงข้อมูลส่วนตัว</a> 
+                         <a class="collapse-item" href="#">แบบคำขอเพิ่ม/ลด การส่งหุ้น</a> 
                         <div class="collapse-divider">
                         </div>
                     </div>
@@ -58,7 +58,7 @@
                  <li class="nav-item"><a class="nav-link" href="#"><i class="fas fa-address-book">
                  </i><span>ข้อมูลสมาชิก</span></a> </li>
 
-                <li class="nav-item"><a class="nav-link" href="#"><i class='fa fa-address-book-o'></i><span>Charts</span></a> </li>
+                <li class="nav-item"><a class="nav-link" href="#"><i class='fa fa-address-book-o'></i><span>บัญชีเงินฝาก</span></a> </li>
 
                 <li class="nav-item"><a class="nav-link" href="#"><i class="fas fa-fw fa-chart-area">
             </i><span>Charts</span></a> </li>
@@ -268,7 +268,7 @@
                 <div class="modal-footer">
                     <button class="btn btn-secondary" type="button" data-dismiss="modal">
                         Cancel</button>
-                    <a class="btn btn-primary" href="login.html">Logout</a>
+                    <a class="btn btn-primary" href="#">Logout</a>
                 </div>
             </div>
         </div>

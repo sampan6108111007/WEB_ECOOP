@@ -2,3 +2,7 @@ D:\Web_Admin\Web_Admin\bin\Web_Admin.dll
 D:\Web_Admin\Web_Admin\bin\Web_Admin.pdb
 D:\Web_Admin\Web_Admin\obj\Debug\Web_Admin.dll
 D:\Web_Admin\Web_Admin\obj\Debug\Web_Admin.pdb
+D:\WEB_ECOOP\bin\Web_Admin.dll
+D:\WEB_ECOOP\bin\Web_Admin.pdb
+D:\WEB_ECOOP\obj\Debug\Web_Admin.dll
+D:\WEB_ECOOP\obj\Debug\Web_Admin.pdb
